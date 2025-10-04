@@ -1,0 +1,7 @@
+Csv
+
+operator_id,company_id,name,team,hire_date
+OP-01,C001,John Doe, Team A,2023-03-15
+OP-02,C001,Jane Smith, Team A, 2022-11-07
+OP-03,C002,Bob Brown, Team B, 2024-01-20
+OP-04,C003,Alice Green, Team C, 2023-08-05
