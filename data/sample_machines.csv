@@ -1,0 +1,5 @@
+machine_id,company_id,model,last_maintenance_date,remarks
+MCH-01,C001,Model X,2025-09-15,"Regular maintenance done"
+MCH-02,C001,Model Y,2025-09-20,"Needs calibration"
+MCH-03,C002,Model Z,2025-09-18,"Tool replacement schedule"
+MCH-04,C003,Model X,2025-09-25,"All ok"
