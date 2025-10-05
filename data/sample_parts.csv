@@ -1,0 +1,5 @@
+part_serial,company_id,part_type,machine_id,produced_at,shift,operator_id,result,defect_type,defect_cause,corrective_action,inspector_notes
+P1001,C001,BracketA,MCH-01,2025-10-03T07:12:00Z,A,OP-01,OK,,,,All good
+P1002,C001,BracketA,MCN-01,2025-10-03T07:15:30Z,A,OP-01,SCRAP,surface_crack,tool_wear,replace_tool,crack near weld
+P1003,C002,PlateB,MCH-03,2025-10-03T08:01:05Z,A,OP-03,2025-10-03,OK,,,,OK visual
+P1004,C003,GearC,MCH-04,2025-10-03T08:22:12Z,A,OP-04,SCRAP,dimension_out,incorect_setup,reset_fixture,oversize by 0.6mm
